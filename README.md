@@ -1,6 +1,7 @@
 # HACKODISHA4.0
 This project is made by <!--Chasers>
 
+## Quantum Safe Cryptography:
 Quantum encryption for blockchain is an emerging field combining quantum cryptographic techniques with blockchain to enhance security and privacy. As quantum computing develops, it threatens the traditional cryptographic methods (like RSA and ECC) used in blockchains, potentially rendering them vulnerable to quantum attacks. Quantum encryption, through technologies like quantum key distribution (QKD), offers a way to secure blockchain against such threats.
 
 Here’s an overview of how quantum encryption can impact blockchain security:
